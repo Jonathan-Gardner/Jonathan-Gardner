@@ -20,8 +20,7 @@ I'm perpetually working on projects and finding new problems to hack at. **I liv
 |  |   |
 | :----------------------: | :-: |
 | [<img src="./img/index/planet.png" width="250"/>](image.png) | <div style="width:250px">**Lovac** is a personal favourite of mine; A 2D top-down ASCII space shoot-em-up, centered around collecting modules to expand your ship</div> |
-| <div style="width:250px">**CubeMaze** is a simple maze game wrapped around a cube. While it's another example of an odd mesh I've had to generate at runtime, I think the much more intresting aspect is the maze generation itself.</div> | [<img src="./img/index/cubemaze.png" width="250"/>](image.png) | 
-| | |
+| [<img src="./img/index/cubemaze.png" width="250"/>](image.png) | <div style="width:250px">**CubeMaze** is a simple maze game wrapped around a cube. While it's another example of an odd mesh I've had to generate at runtime, I think the much more intresting aspect is the maze generation itself.</div> |
 
 
 
