@@ -17,6 +17,15 @@ I'm perpetually working on projects and finding new problems to hack at. **I liv
 
 - Here's a few old ones that I think are neat.
 
+<style>
+table th:first-of-type {
+    width: 50%;
+}
+table th:nth-of-type(2) {
+    width: 50%;
+}
+</style>
+
 |  |   |
 | :----------------------: | :-: |
 | [<img src="./img/index/planet.png" width="250"/>](image.png) | <div style="width:250px">**Lovac** is a personal favourite of mine; A 2D top-down ASCII space shoot-em-up, centered around collecting modules to expand your ship</div> |
