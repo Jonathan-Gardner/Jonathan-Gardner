@@ -1,4 +1,28 @@
-## Hi there 👋
+# Hey There! 👋
+
+Welcome to my Portfolio!
+ 
+I'm Jon Gardner,
+
+I have 10 years experience as a full stack interactive 3D and game programmer. I specialise in gameplay system architecture and high performance C#. I also enjoy working on low level networking, backend servers, designer tooling, and just about any problem that needs solving; I’m a jack of all trades!
+
+### Contents
+- [Hey There! 👋](#hey-there-)
+    - [Contents](#contents)
+  - [Projects:](#projects)
+
+## Projects:
+
+I'm perpetually working on projects and finding new problems to hack at. **I live and breathe C#**
+
+- Here's a few old ones that I think are neat.
+
+|  |  |
+| --- | --- |
+| [<img src="./img/index/planet.png" width="250"/>](image.png) | [<img src="./img/index/cubemaze.png" width="250"/>](image.png)   |
+| | |
+
+
 
 <!--
 **Jonathan-Gardner/Jonathan-Gardner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
