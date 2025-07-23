@@ -8,9 +8,9 @@ Professionally I've worked on:
  - Desktop Games
  - Multiplayer Game Servers
  - Augmented and Virtual Reality
- - Server Achitectures / Microservices
+ - Server Achitectures & Microservices
  - Voice Apps
- - Winfrom / Terminal Dev Tools
+ - Winform & Terminal Dev Tools
 
 And probably a dozen other types I'm forgetting, and on side projects?
 I'm more or less perpetually finding new and intresting projects to hack away at.
